@@ -5,15 +5,15 @@ Welcome to my Microsoft Certification Portfolio! This repository serves as a tes
 <h3>Certifications</h3>
 Contained within this repository are the certificates I've earned:
 
-- **AZ-900:** Azure Fundamentals - Laying the groundwork for understanding cloud services, specifically those provided by Microsoft Azure.
+- **AZ-900:** **Azure Fundamentals -** Laying the groundwork for understanding cloud services, specifically those provided by Microsoft Azure.
   
-- **AI-900:** Microsoft Azure AI Fundamentals - Demonstrating foundational knowledge of machine learning and artificial intelligence concepts and related Microsoft Azure services.
+- **AI-900:** **Microsoft Azure AI Fundamentals -** Demonstrating foundational knowledge of machine learning and artificial intelligence concepts and related Microsoft Azure services.
   
-- **DP-900:** Microsoft Azure Data Fundamentals - Showcasing the ability to work with data in the cloud.
+- **DP-900:** **Microsoft Azure Data Fundamentals -** Showcasing the ability to work with data in the cloud.
 
-- **PL-900:** Microsoft Power Platform Fundamentals - Proving the understanding of the business value and product capabilities of Power Platform.
+- **PL-900:** **Microsoft Power Platform Fundamentals -** Proving the understanding of the business value and product capabilities of Power Platform.
 
-- **DP-100:** Designing and Implementing a Data Science Solution on Azure - Validating the skills necessary to run data science projects and work with Azure Machine Learning.
+- **DP-100:** **Designing and Implementing a Data Science Solution on Azure -** Validating the skills necessary to run data science projects and work with Azure Machine Learning.
 
 
 <h3>Contact</h3>
