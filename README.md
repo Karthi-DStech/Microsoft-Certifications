@@ -15,6 +15,11 @@ Contained within this repository are the certificates I've earned:
 
 - **DP-100:** **Designing and Implementing a Data Science Solution on Azure -** Validating the skills necessary to run data science projects and work with Azure Machine Learning.
 
+- **AI-102:** Designing and Implementing an Azure AI Solution - Demonstrating proficiency in designing and implementing AI solutions on Microsoft Azure.
+
+<h3>Microsoft Certification Transcript</h3>
+Additionally, you'll find my Microsoft Certification Transcript file, which provides a comprehensive overview of all my certifications and achievements. Feel free to review this document for a detailed breakdown of my certifications.
+
 
 <h3>Contact</h3>
 Should you have any questions or would like to discuss the certifications and what I've learned in more detail, feel free to reach out to me.
