@@ -1,6 +1,6 @@
 <h3>Microsoft Certification Portfolio </h3>
 
-Welcome to my Microsoft Certification Portfolio! This repository serves as a testament to my commitment to professional development in the field of data analysis and science. It highlights my journey through Microsoft's certification process and my achievements as a **Microsoft Certified Data Analyst and Data Scientist**.
+Welcome to my Microsoft Certification Portfolio! This repository serves as a testament to my commitment to professional development in the field of data analysis and science. It highlights my journey through Microsoft's certification process and my achievements as a **Microsoft Certified Data Scientist, AI Engineer and MLOps Engineer**.
 
 <h3>Certifications</h3>
 Contained within this repository are the certificates I've earned:
